@@ -7,6 +7,7 @@ import javax.crypto.spec.DESKeySpec;;
 /**
  *
  * @author alesj
+ * SILVA JUAREZ ALEJANDRO 5IV8
  */
 public class DES {
 
